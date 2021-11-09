@@ -1,0 +1,20 @@
+Click to view session information
+-----
+matplotlib == 3.3.4
+numpy == 1.20.1
+pandas == 1.2.4
+seaborn == 0.11.1
+session_info == 1.0.0
+-----
+Click to view modules imported as dependencies
+-----
+IPython == 7.22.0
+jupyter_client == 6.1.12
+jupyter_core == 4.7.1
+jupyterlab == 3.0.14
+notebook == 6.3.0
+-----
+Python 3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]
+Windows-7-6.1.7601-SP1
+-----
+Session information updated at 2021-11-08 23:00
